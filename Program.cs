@@ -20,7 +20,7 @@
         int v = Int32.Parse(Console.ReadLine());
 
         sortMass(mas, v);
-        printMass(mas, "четвертого задания отсортированный");
+        printMass(mas, "отсортированный для четвертого задания");
     }
 
     static void fillMass(int[] massive, int minV, int maxV)
